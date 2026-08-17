@@ -17,7 +17,7 @@ title: Theory and Practice of SMT Solving
 tagline: Theory and Practice of SMT Solving
 description: Course given by DCC-UFMG
 author: Haniel Barbosa
-baseurl: '/'
+baseurl: '/smt-class/2026.2'
 url: 'https://hanielb.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
