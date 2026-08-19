@@ -5,7 +5,7 @@ title: Topic 01 - SAT solving
 ## {{ page.title }}
 {: .text-gamma }
 
-25 Sep
+10 Aug
 : **Introduction to SMT**
   : An [SMT problem](http://smtlib.org/). How does [cvc5](https://cvc5.github.io/) solve it? What are the reasoning components in the solver?
 
