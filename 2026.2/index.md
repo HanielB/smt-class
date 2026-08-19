@@ -50,12 +50,12 @@ books provide important background:
 
 # Topic 1: SAT solving
 
-## Propositional Logic
-## Resolution
-## Efficient CNF conversion
-## DPLL and CDCL
-## Efficient SAT solving
+# Topic 2: FOL and CDCL(T)
 
-# Topic 2: CDCL(T) Architecture
+# Topic 3: Core theory solvers
 
-# TODO
+# Topic 4: Quantifiers
+
+# Topic 5: Proofs
+
+# Topic 6: Theory solvers for BV and Strings
