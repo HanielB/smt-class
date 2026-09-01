@@ -12,8 +12,11 @@ title: Topic 01 - SAT solving
 12 Aug
 : [**Propositional Logic, DPLL**]({{ site.baseurl }}{% link _lessons/01-sat/sat.md %})
 
-17 Aug
+17, 19 Aug
 : [**CDCL**]({{ site.baseurl }}{% link _lessons/01-sat/sat.md %})
 
-19 Aug
+24 Aug
 : [**Implementing CDCL**]({{ site.baseurl }}{% link _lessons/01-sat/sat.md %})
+
+26 Aug
+: [**Pre- and in-procennig in SAT**]({{ site.baseurl }}{% link _lessons/01-sat/sat.md %})
