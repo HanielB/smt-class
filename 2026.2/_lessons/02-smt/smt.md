@@ -14,13 +14,14 @@ title: SMT solving
 
 References to the **Decision Procedures** book will noted as *DP*, while to the **Calculus of Computations** book will be *CC*.
 
-- From SAT to SMT
-  - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-cdclt.pdf %})
-
 - First-order theories
-  - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-fol.pdf %})
+  - [Slides by Cesare Tinelli on FOL]({{ site.baseurl }}{% link _lessons/02-smt/cesare-fol.pdf %})
+  - [Slides by Cesare Tinelli on SMT]({{ site.baseurl }}{% link _lessons/02-smt/cesare-smt.pdf %})
   - CC: 3
   - DP: 4
+
+- From SAT to SMT
+  - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-cdclt.pdf %})
 
 - Theory solvers (EUF, IDL, Arrays)
   - CC: 3
