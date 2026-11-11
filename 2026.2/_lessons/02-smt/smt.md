@@ -34,6 +34,15 @@ References to the **Decision Procedures** book will noted as *DP*, while to the 
   - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-th-arith.pdf %})
   - [A Fast Linear-Arithmetic Solver for DPLL(T)]({{ site.baseurl }}{% link _lessons/02-smt/Dutertre2006.pdf %})
 
+- Theory solvers (Strings)
+  - [Slides by Cesare Tinelli]({{ site.baseurl }}{% link _lessons/02-smt/cesare-th-strings.pdf %})
+
+- Quantifiers
+  - [An introduction to SMT solving with quantifiers](https://hanielbarbosa.com/talks/sat-smt-school2024.pdf)
+  - [Revisiting Enumerative Instantiation](https://hanielbarbosa.com/papers/tacas2018.pdf)
+
+### Recommended readings
+
 - Theory solvers (Bit-vectors)
   - DP: 6.1, 6.2
 

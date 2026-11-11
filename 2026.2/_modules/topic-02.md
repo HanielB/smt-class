@@ -11,6 +11,9 @@ title: Topic 02 - SMT solving basics
 2 Sep
 : [**First-order Theories**]({{ site.baseurl }}{% link _lessons/02-smt/smt.md %})
 
+7 Sep
+: Holiday
+
 9 Sep
 : [**First-order Proving**]({{ site.baseurl }}{% link _lessons/02-smt/smt.md %})
 
